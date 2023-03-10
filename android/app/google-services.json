@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893212821171",
+    "project_id": "lulo-chat",
+    "storage_bucket": "lulo-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893212821171:android:661826d9c51f21aaecd2c6",
+        "android_client_info": {
+          "package_name": "com.lulo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893212821171-ao8sej1pln77lqhbaibcacontel5enf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXtDjSIiWC1mrJjom9QdOefH-92LvEyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893212821171-ao8sej1pln77lqhbaibcacontel5enf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
